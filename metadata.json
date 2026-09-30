@@ -1,0 +1,6 @@
+{
+  "name": "CU CURSED MISSION BOARD — Quest Discovery",
+  "description": "Jujutsu High cursed mission discovery board and interactive campus quest map for Chandigarh University sorcerers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
